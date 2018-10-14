@@ -1,0 +1,25 @@
+"origin": ["Get a #size# #icedorhot# #options# with #number# shots and #nowhiporyes#" , "Drink #coffeeortea#", "Don't forget your midday coffee", "Pick yourself up a #icedorhot# #size# #options#"],
+
+"icedorhot": ["iced", "hot"], 
+
+"nowhiporyes": ["no whip", "with whip"], 
+
+"size": ["small", "medium", "large"], 
+
+"options": ["#latte#", "expresso", "#caffè#", "Cordusio", "Flat White", "#caramel#", "White Chocolate Mocha", "coffee", "Skinny Mocha", "#cappuccino#"],
+
+"caffè": ["Caffè Latte", "Caffè Mocha", "Caffè Americano", "Caffè Mistro"], 
+
+"number": ["one", "two", "three", "four", "five"], 
+
+"coffeeortea": ["coffee", "tea"], 
+
+"caramel": ["Caramel Macchiato", "Salted Caramel Mocha"], 
+
+"epresso": ["Espresso Con Panna", "Espresso Macchiato", "Espresso Macchiato", "Espresso"],
+
+"latte": ["Latte Macchiato", "Maple Pecan Latte", "Pumpkin Spice Chai Tea Latte", "Vanilla Bean Coconutmilk Latte", "Vanilla Latte", "Cinnamon Dolce Latte", "Pumpkin Spice Latte"], 
+
+"milk": ["2% milk", "Almond milk", "Coconut Milk", "Non-fat Milk", "Whole Milk"], 
+
+"cappuccino": ["Cappuccino", "Cold foam Cappuccino"]
