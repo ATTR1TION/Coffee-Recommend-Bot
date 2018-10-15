@@ -1,4 +1,4 @@
-"origin": ["Get a #size# #icedorhot# #options# with #number# shots and #nowhiporyes#" , "Drink #coffeeortea#", "Don't forget your midday coffee", "Pick yourself up a #icedorhot# #size# #options#"],
+"origin": ["Get a #size# #icedorhot# #options# with #number# shots, #nowhiporyes#" , "Drink #coffeeortea#", "Coffee break!", "Pick yourself up a #size# #icedorhot# #options#", "Why not get #size.a# #icedorhot# #options#, #nowhiporyes#", "Get #size.a# #icedorhot# #options#, #nowhiporyes#", "Get yourself #size.a# #coffee# with #number# sugars and #creamorno#"],
 
 "icedorhot": ["iced", "hot"], 
 
@@ -20,6 +20,10 @@
 
 "latte": ["Latte Macchiato", "Maple Pecan Latte", "Pumpkin Spice Chai Tea Latte", "Vanilla Bean Coconutmilk Latte", "Vanilla Latte", "Cinnamon Dolce Latte", "Pumpkin Spice Latte"], 
 
-"milk": ["2% milk", "Almond milk", "Coconut Milk", "Non-fat Milk", "Whole Milk"], 
+"milk": ["2% milk", "almond milk", "coconut milk", "non-fat milk", "whole milk"], 
+
+"coffee": ["coffee"],
+
+"creamorno": ["with cream", "no cream"],
 
 "cappuccino": ["Cappuccino", "Cold foam Cappuccino"]
