@@ -1,29 +1,19 @@
-"origin": ["Get a #size# #icedorhot# #options# with #number# shots, #nowhiporyes#" , "Drink #coffeeortea#", "Coffee break!", "Pick yourself up a #size# #icedorhot# #options#", "Why not get #size.a# #icedorhot# #options#, #nowhiporyes#", "Get #size.a# #icedorhot# #options#, #nowhiporyes#", "Get yourself #size.a# #coffee# with #number# sugars and #creamorno#"],
+{
 
-"icedorhot": ["iced", "hot"], 
+"License": ["This is licensed under the MIT license, the code can be found at https://github.com/ATTR1TION/Coffee-Recommend-Bot"],
 
-"nowhiporyes": ["no whip", "with whipped cream"], 
+"origin": ["Get #size.a# #icedorhot#", "Pick up #size.a# #icedorhot#", "Coffee Break!", "Try something new? Grab #size.a# #icedorhot#"],
 
 "size": ["small", "medium", "large"], 
 
-"options": ["#latte#", "expresso", "#caffè#", "Cordusio", "Flat White", "#caramel#", "White Chocolate Mocha", "coffee", "Skinny Mocha", "#cappuccino#"],
+"icedorhot": ["#Iced#", "#hot#", "#special#"],
 
-"caffè": ["Caffè Latte", "Caffè Mocha", "Caffè Americano", "Caffè Mistro"], 
+"hot": ["Caffè Americano", "Caffè Latte, with #milk#", "Caffè Mocha, with #milk# and #nowhiporyes#", "Cappuccino, with #milk#", "Caramel Macchiato, with #milk#", "Cinnamon Dolce Latte, with #milk# and #nowhiporyes#", "Cordusio, with #milk#", "Flat White, with #milk#", "Vanilla Bean Coconut milk Latte, with #milk#", "Vanilla Latte, with #milk#", "White Chocolate Mocha, with #milk# and #nowhiporyes#", "Latte Macchiato, with #milk#", "Maple Pecan Latte, with #milk#", "Pumpkin Spice Chai Tea Latte, with #milk#", "Pumpkin Spice Latte, with #milk# and #nowhiporyes#", "Salted Caramel Mocha, with #milk# and #nowhiporyes#"], 
+"espresso": ["Espresso", "Espresso Con Panna", "Espresso Macchiato, with #milk#"], 
+"Iced": ["Iced Caffè Americano", "Iced Caffè Latte, with #milk#", "Iced Caffè Mocha, with #milk#and #nowhiporyes#", "Iced Caramel Macchiato, with #milk#", "Iced Cinnamon Dolce Latte, with #milk#and #nowhiporyes#", "Iced Cold Foam Cappuccino", "Iced Cordusio, with #milk#", "Iced Latte Macchiato, with #milk#", "Iced Maple Pecan Latte, with #milk#", "Iced Pumpkin Spice Chai Latte, with #milk#", "Iced Pumpkin Spice Latte, with #milk#and #nowhiporyes#", "Iced Salted Caramel Mocha, with #milk#and #nowhiporyes#", "Iced Vanilla Bean Coconut milk Latte, with #milk#", "Iced Vanilla Latte, with #milk#", "Iced White Chocolate Mocha, with #milk# and #nowhiporyes#"],
+"nowhiporyes": ["no whipped cream", "whipped cream"],
+"special": ["Skinny Mocha", "Iced Skinny Cinnamon Dolce Latte", "Iced Skinny Mocha"],
 
-"number": ["two", "three", "four", "five"], 
+"milk": ["2% milk", "Almond milk", "Coconut milk", "Non-fat milk", "Whole milk"]
 
-"coffeeortea": ["coffee", "tea"], 
-
-"caramel": ["Caramel Macchiato", "Salted Caramel Mocha"], 
-
-"epresso": ["Espresso Con Panna", "Espresso Macchiato", "Espresso Macchiato", "Espresso"],
-
-"latte": ["Latte Macchiato", "Maple Pecan Latte", "Pumpkin Spice Chai Tea Latte", "Vanilla Bean Coconutmilk Latte", "Vanilla Latte", "Cinnamon Dolce Latte", "Pumpkin Spice Latte"], 
-
-"milk": ["2% milk", "almond milk", "coconut milk", "non-fat milk", "whole milk"], 
-
-"coffee": ["coffee"],
-
-"creamorno": ["with cream", "no cream"],
-
-"cappuccino": ["Cappuccino", "Cold foam Cappuccino"]
+}
