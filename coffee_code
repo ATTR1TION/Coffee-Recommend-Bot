@@ -2,18 +2,31 @@
 
 "License": ["This is licensed under the MIT license, the code can be found at https://github.com/ATTR1TION/Coffee-Recommend-Bot"],
 
-"origin": ["Get #size.a# #icedorhot#", "Pick up #size.a# #icedorhot#", "Coffee Break!", "Try something new? Grab #size.a# #icedorhot#"],
+"origin": ["Get #size.a# #icedorhot##punctuation#", "Pick up #size.a# #icedorhot##punctuation#", "Coffee Break#punctuation#", "Try something new. Grab #size.a# #icedorhot##punctuation#", "Add #flavouredshots.a# shot to your coffee#punctuation#"],
 
 "size": ["small", "medium", "large"], 
 
-"icedorhot": ["#Iced#", "#hot#", "#special#"],
+"icedorhot": ["#Iced#", "#hot#", "#special#", "#coffee#", "#frappuccino#"],
+"flavouredshots": ["french vanilla", "hazelnut", "toasted almond", "blueberry", "raspberry", "coconut"],
 
-"hot": ["Caffè Americano", "Caffè Latte, with #milk#", "Caffè Mocha, with #milk# and #nowhiporyes#", "Cappuccino, with #milk#", "Caramel Macchiato, with #milk#", "Cinnamon Dolce Latte, with #milk# and #nowhiporyes#", "Cordusio, with #milk#", "Flat White, with #milk#", "Vanilla Bean Coconut milk Latte, with #milk#", "Vanilla Latte, with #milk#", "White Chocolate Mocha, with #milk# and #nowhiporyes#", "Latte Macchiato, with #milk#", "Maple Pecan Latte, with #milk#", "Pumpkin Spice Chai Tea Latte, with #milk#", "Pumpkin Spice Latte, with #milk# and #nowhiporyes#", "Salted Caramel Mocha, with #milk# and #nowhiporyes#"], 
-"espresso": ["Espresso", "Espresso Con Panna", "Espresso Macchiato, with #milk#"], 
-"Iced": ["Iced Caffè Americano", "Iced Caffè Latte, with #milk#", "Iced Caffè Mocha, with #milk#and #nowhiporyes#", "Iced Caramel Macchiato, with #milk#", "Iced Cinnamon Dolce Latte, with #milk#and #nowhiporyes#", "Iced Cold Foam Cappuccino", "Iced Cordusio, with #milk#", "Iced Latte Macchiato, with #milk#", "Iced Maple Pecan Latte, with #milk#", "Iced Pumpkin Spice Chai Latte, with #milk#", "Iced Pumpkin Spice Latte, with #milk#and #nowhiporyes#", "Iced Salted Caramel Mocha, with #milk#and #nowhiporyes#", "Iced Vanilla Bean Coconut milk Latte, with #milk#", "Iced Vanilla Latte, with #milk#", "Iced White Chocolate Mocha, with #milk# and #nowhiporyes#"],
+"hot": ["caffè americano", "caffè latte, with #milk#", "caffè mocha, with #milk# and #nowhiporyes#", "cappuccino, with #milk#", "caramel macchiato, with #milk#", "cinnamon dolce latte, with #milk# and #nowhiporyes#", "cordusio, with #milk#", "flat white, with #milk#", "vanilla bean coconut milk latte, with #milk#", "vanilla latte, with #milk#", "white chocolate mocha, with #milk# and #nowhiporyes#", "latte macchiato, with #milk#", "maple pecan latte, with #milk#", "pumpkin spice chai tea latte, with #milk#", "pumpkin spice latte, with #milk# and #nowhiporyes#", "salted caramel mocha, with #milk# and #nowhiporyes#"], 
+
+"espresso": ["espresso", "espresso con panna", "espresso macchiato, with #milk#"], 
+
+"Iced": ["iced caffè americano", "iced caffè latte, with #milk#", "iced caffè mocha, with #milk# and #nowhiporyes#", "iced caramel macchiato, with #milk#", "iced cinnamon dolce latte, with #milk# and #nowhiporyes#", "iced cold foam cappuccino", "iced cordusio, with #milk#", "iced latte macchiato, with #milk#", "iced maple Pecan latte, with #milk#", "iced pumpkin spice chai latte, with #milk#", "iced pumpkin spice latte, with #milk# and #nowhiporyes#", "iced salted caramel mocha, with #milk# and #nowhiporyes#", "iced vanilla bean coconut milk latte, with #milk#", "iced vanilla latte, with #milk#", "iced white chocolate mocha, with #milk# and #nowhiporyes#"],
+
 "nowhiporyes": ["no whipped cream", "whipped cream"],
-"special": ["Skinny Mocha", "Iced Skinny Cinnamon Dolce Latte", "Iced Skinny Mocha"],
 
-"milk": ["2% milk", "Almond milk", "Coconut milk", "Non-fat milk", "Whole milk"]
+"coffee": ["#coffee_blends# coffee"], 
+
+"frappuccino": ["caffè vanilla frappuccino® blended coffee with #milk# and #nowhiporyes#", "caramel cocoa cluster frappuccino® blended coffee, with #milk# and #nowhiporyes#", "caramel frappuccino® blended coffee, with #milk# and #nowhiporyes#", "chai crème frappuccino® blended crème, with #milk# and #nowhiporyes#", "coffee frappuccino® blended coffee, with #milk#", "cupcake crème frappuccino® blended crème, with #milk# and #nowhiporyes#", "double chocolaty chip crème frappuccino® blended crème, with #milk# and #nowhiporyes#", "espresso frappuccino® blended coffee, with #milk#", "java chip frappuccino® blended coffee, with #milk# and #nowhiporyes#", "maple pecan crème frappuccino®, with #milk# and #nowhiporyes#", "maple pecan frappuccino® blended coffee, with #milk#and #nowhiporyes#", "matcha green tea crème frappuccino®, with #milk# and #nowhiporyes#","mocha frappuccino® blended coffee, with #milk# and #nowhiporyes#", "pumpkin spice frappuccino® blended beverage, with #milk# and #nowhiporyes#", "pumpkin spice frappuccino® blended crème, with #milk# and #nowhiporyes#", "salted caramel mocha crème frappuccino®, with #milk# and #nowhiporyes#", "salted caramel mocha frappuccino® blended beverage, with #milk# and #nowhiporyes#", "serious strawberry frappuccino®, with #milk# and #nowhiporyes#", "triple mocha frappuccino®, with #milk#", "ultra caramel frappuccino®, with #milk#", "vanilla bean crème frappuccino® blended crème, with #milk# and #nowhiporyes#", "white chocolate mocha frappuccino® blended coffee, with #milk# and #nowhiporyes#"],
+
+"punctuation": [".", "!"],
+
+"coffee_blends": ["original blend", "dark roast", "decaf"],
+
+"special": ["skinny mocha", "iced skinny cinnamon dolce latte", "iced skinny mocha"],
+
+"milk": ["2% milk", "almond milk", "coconut milk", "non-fat milk", "whole milk"]
 
 }
